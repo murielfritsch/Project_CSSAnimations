@@ -198,7 +198,6 @@ header, main, footer {
 }
 
 
-/* INSERT LOADING SPINNER HERE - IT SHOULD COVER THE WHOLE SCREEN for 1->3 secs */
 
 a {
     text-decoration:none;
@@ -351,7 +350,7 @@ main {
     border-radius: 1rem 1rem 0 0;
     height: 200px;
     object-fit: cover;
-    object-position: bottom;
+    object-position: center;
     position:relative;
 }
 
