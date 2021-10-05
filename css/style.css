@@ -38,9 +38,7 @@ body {
     margin:0;
 }
 
- 
 
-}
 header, main, footer {
     animation:fadeIn 6.5s;
 }
