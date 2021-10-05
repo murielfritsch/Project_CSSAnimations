@@ -844,7 +844,7 @@ footer a {
         border-radius: 1rem 1rem 0 0;
         height: 200px;
         object-fit: cover;
-        object-position: bottom;
+        object-position: center;
         position:relative;
     }
     
@@ -1346,7 +1346,7 @@ footer a {
         border-radius: 1rem 1rem 0 0;
         height: 200px;
         object-fit: cover;
-        object-position: bottom;
+        object-position: center;
         position:relative;
     }
     
