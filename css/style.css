@@ -271,6 +271,7 @@ main a, main a:link, main a:visited {
 .explore-button:hover {
     background: linear-gradient(to bottom, #cc33ae, rgba(147, 86, 220, 1));
     box-shadow: 2px 2px 4px #9b9797;
+    cursor: pointer;
 }
 
 #howto-wrapper {
@@ -291,7 +292,7 @@ main a, main a:link, main a:visited {
     box-shadow:2px 2px 4px #9b9797;
     margin:0 0 2rem 0;
     padding:1rem 1rem 1rem 1rem;
-    cursor:pointer;
+    /* cursor:pointer; */
     align-items: center;
 }
 
@@ -776,7 +777,7 @@ footer a {
         box-shadow:2px 2px 4px #9b9797;
         margin:0 1rem 2rem 1rem;
         padding:1rem 1rem 1rem 1rem;
-        cursor:pointer;
+        /* cursor:pointer; */
     }
 
     .howto p {
