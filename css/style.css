@@ -266,7 +266,9 @@ main a, main a:link, main a:visited {
     color: white;
 }
 
-
+.explore-button-wrapper {
+    align-self: center;
+}
 
 .explore-button:hover {
     background: linear-gradient(to bottom, #cc33ae, rgba(147, 86, 220, 1));
